@@ -14,9 +14,13 @@ ONLY FOR EDUCATION 方便從New York Times抓取新聞資料，供學術使用
 
 ### INPUT FILE FORMAT
 
-| Search | Start Time | End Time |
-It will fetch all the search topic during start time and end time.
+```sh
 
+It will fetch all the search topic during start time and end time.
+```
+```
+| Search | Start Time | End Time |
+| ------ | ---------- | -------- |
 | Wet Seal Inc | 2010/7/1 |	2010/12/31 |
 | Local Corp   | 2010/7/1 | 2010/12/31 |
 
@@ -24,9 +28,9 @@ It will fetch all the search topic during start time and end time.
 
 One topic output to one folder.
 
-NEWS_TOPIC
-NEWS_TIME
-NEWS_CONTENT
+NEWS_TOPIC </br>
+NEWS_TIME </br>
+NEWS_CONTENT </br>
 
 ### RUN
 

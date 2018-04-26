@@ -16,11 +16,10 @@ ONLY FOR EDUCATION 方便從New York Times抓取新聞資料，供學術使用
 
 ```sh
 
-It will fetch all the search topic during start time and end time.
+It will fetch all the search topics during start time and end time.
 ```
-```
-| Search | Start Time | End Time |
-| ------ | ---------- | -------- |
+| Search Topic | Start Time | End Time |
+| -------------| ---------| ---------- |
 | Wet Seal Inc | 2010/7/1 |	2010/12/31 |
 | Local Corp   | 2010/7/1 | 2010/12/31 |
 
